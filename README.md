@@ -16,11 +16,14 @@ Compares the performance of both models.
 
 Results:
 
-Accuracy of new model having only import feature is less as compare to Accuracy with having all features
+Accuracy of new model having only import feature is less as compare to Accuracy of model  having all features
 
 Technologies:
 
 Python
+
 pandas
+
 NumPy
+
 scikit-learn
